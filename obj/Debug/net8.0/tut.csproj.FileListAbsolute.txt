@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DotNet\tut\bin\Debug\net8.0\tut.exe
+C:\Users\User\Desktop\DotNet\tut\bin\Debug\net8.0\tut.deps.json
+C:\Users\User\Desktop\DotNet\tut\bin\Debug\net8.0\tut.runtimeconfig.json
+C:\Users\User\Desktop\DotNet\tut\bin\Debug\net8.0\tut.dll
+C:\Users\User\Desktop\DotNet\tut\bin\Debug\net8.0\tut.pdb
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.AssemblyInfo.cs
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.dll
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\refint\tut.dll
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.pdb
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\tut.genruntimeconfig.cache
+C:\Users\User\Desktop\DotNet\tut\obj\Debug\net8.0\ref\tut.dll
